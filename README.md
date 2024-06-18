@@ -1,4 +1,4 @@
-# 救援思路
+# 救援思路 ![twitter](https://img.shields.io/twitter/follow/0xNaiXi?style=social)
 
 分享下救援zk的思路和实践
 其实我并没有撸zk，但是朋友一批zk号被盗了，昨天就研究了一下。
@@ -87,3 +87,11 @@
 对于2 部分，我花费了很久的时间，去编写代码，测试代码。直到最后一刻，希望自己的代码不要出bug。
 
 最终在抢购的过程中大获全胜。100%救援成功率。
+
+## 请我一杯咖啡
+
+如果你觉得这个项目对你有帮助，可以请我喝一杯咖啡，谢谢！
+
+SOL地址: EfDZm8wdkFU7JD8ACeWeJ54xaBVPWiZUKKmLSkN6WUzu
+
+evm地址: 0xD70C7F06C07152Acb16D20012572250F57EEA624
